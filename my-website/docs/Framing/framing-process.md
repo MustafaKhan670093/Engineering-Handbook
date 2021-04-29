@@ -16,7 +16,7 @@ Notable means of establishing requirements include:
 * **Reading Request For Proposals** (**RFPs**),
 * **Studying reference designs**.
 
-Although each source provides information regarding the requirements, the engineer almost always has to **reframe** and **rescope** the opportunity. This is necessary as the context in which requirements were created may be different or have changed. On the other hand, if the engineer has to frame an opportunity themselves, then the onus is on them to go through the aforementioned channels and develop a [suitable](./Subtopics/suitable-requirements.md) requirements model. 
+Although each source provides information regarding the requirements, the engineer almost always has to **reframe** and **rescope** the opportunity. This is necessary as the context in which requirements were created may be different or have changed. On the other hand, if the engineer has to frame an opportunity themselves, then the onus is on them to go through the aforementioned channels and develop a [**suitable**](./Subtopics/suitable-requirements) requirements model. 
 
 ## Stakeholder Engagement
 
