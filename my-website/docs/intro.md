@@ -2,34 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# About
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Positionality
 
-## Getting Started
+## Who I am
 
-Get started by **creating a new site**.
+My name is Mustafa Khan and I am an Engineering Science student at the University of Toronto. My goal as an engineer is to solve some of the world’s most challenging problems and improve the lives of billions of people. To achieve this end, continual reflection and action is needed so I can keep improving my skills as an engineer.
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+## Why I made this website
 
-## Generate a new site
+This website is a living document that allows me to document and reflect on the action I have taken throughout my engineering work. It is not all encompassing of the work I do and often focuses on limitations of tried methods, lessons learned and areas of improvement. If you would like to know more about the work I generally do, please visit my [main website](www.mustafarehanahmadkhan.com).
 
-Generate a new Docusaurus site using the **classic template**:
+## Engineering values
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+## My Engineering Design Process
 
-## Start your site
+## Navigating this site
 
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.

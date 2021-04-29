@@ -14,7 +14,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Get It From Me',
+    title: 'My Process',
     Svg: require('../../static/img/undraw_hologram_fjwp.svg').default,
     description: (
       <>
