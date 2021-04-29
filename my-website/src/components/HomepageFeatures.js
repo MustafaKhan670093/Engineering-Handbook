@@ -4,32 +4,32 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Who Am I',
+    Svg: require('../../static/img/undraw_developer_activity_bv83.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        My name is Mustafa Khan and I am an Engineering Science student at the University of Toronto. I am constantly learning and creating. 
+
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Get It From Me',
+    Svg: require('../../static/img/undraw_hologram_fjwp.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This handbook outlines my engineering design process. 
+        Included are notes and lessons from using various tools, models and frameworks of design.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Growth',
+    Svg: require('../../static/img/undraw_drone_surveillance_kjjg.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Examples of my work are used to illuminate my process.
+        Building on what has or hasn't worked out of this is my primary vehicle for self growth.
       </>
     ),
   },
