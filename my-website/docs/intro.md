@@ -1,5 +1,9 @@
 ---
+id: intro
 sidebar_position: 1
+title: About
+sidebar_label: About
+
 ---
 
 # About
