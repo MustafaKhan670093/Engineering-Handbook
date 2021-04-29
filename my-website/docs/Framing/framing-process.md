@@ -121,7 +121,7 @@ The requirements model is best used when framing an opportunity. When converging
 :::
 
 :::info Recommended Modifications
-* Use the **toulmin model of argumentation** when justifying the prioritization of objectives as well as the selection of metrics, criteria and constraints.
+* Use the **Toulmin model of argumentation** when justifying the prioritization of objectives as well as the selection of metrics, criteria and constraints.
 * To ensure effective **communication of ideas**, present the requirements in an order that corresponds to the priorities of the design team and the stakeholders.
 * Use the **principle of iterative design** and apply it to your requirements. This means revisit the requirements model after diverging and converging on a range of good solutions. Doing such a revision ensures the requirements are appropriate for the specific designs being produced and will allow for a better converging process.
 :::
