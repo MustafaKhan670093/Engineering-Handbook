@@ -1,5 +1,5 @@
 ---
-id: suitable
+id: suitable-requirements
 ---
 # What is a suitable requirements model?
 
