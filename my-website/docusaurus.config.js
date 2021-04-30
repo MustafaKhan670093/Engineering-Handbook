@@ -69,18 +69,18 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/MustafaKhan670093/Engineering-Handbook',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/MustafaKhan670093/Engineering-Handbook',
-        },
+        // docs: {
+        //   sidebarPath: require.resolve('./sidebars.js'),
+        //   // Please change this to your repo.
+        //   editUrl:
+        //     'https://github.com/MustafaKhan670093/Engineering-Handbook',
+        // },
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   editUrl:
+        //     'https://github.com/MustafaKhan670093/Engineering-Handbook',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },

@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_developer_activity_bv83.svg').default,
     description: (
       <>
-        My name is Mustafa Khan and I am an Engineering Science student at the University of Toronto. I am constantly learning and creating. 
+        My name is Mustafa Khan and I am an Engineering Science student at the University of Toronto. I am constantly learning, designing and creating. 
 
       </>
     ),
@@ -19,7 +19,7 @@ const FeatureList = [
     description: (
       <>
         This handbook outlines my engineering design process. 
-        Included are notes and lessons from using various tools, models and frameworks of design.
+        Included are notes and lessons from using various tools, models and frameworks.
       </>
     ),
   },
@@ -29,7 +29,7 @@ const FeatureList = [
     description: (
       <>
         Examples of my work are used to illuminate my process.
-        Building on what has or hasn't worked out of this is my primary vehicle for self growth.
+        Building on what has and hasn't worked from these is my primary vehicle for self growth.
       </>
     ),
   },
