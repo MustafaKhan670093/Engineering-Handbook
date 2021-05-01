@@ -23,8 +23,7 @@ This website is a living document that allows me to document and reflect on the 
 ## My Engineering Design Process
 
 <div className="container">
-<!-- <img src={'./img/EDP-whitebg.png'} height="65px"/> -->
-<img src={'./my-website/static/img/EDP-whitebg.png'} height = "65px"/>
+<img src={'/static/img/EDP-whitebg.png'} height = "700px"/>
 </div>
 
 ## Navigating this site

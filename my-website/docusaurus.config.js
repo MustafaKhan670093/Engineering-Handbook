@@ -2,13 +2,13 @@
 module.exports = {
   title: 'Engineering Handbook',
   tagline: 'Find out my engineering design process.',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://MustafaKhan670093.github.io',
+  baseUrl: '/Engineering-Handbook/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'MustafaKhan670093', // Usually your GitHub org/user name.
+  projectName: 'Engineering-Handbook', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Engineering Handbook',
