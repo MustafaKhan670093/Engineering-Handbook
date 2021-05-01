@@ -63,7 +63,35 @@ Stakeholder engagement is best used to develop a requirements model during the f
 
 :::
 
+## Scoping 
 
+Scoping is the process through which a design challenge is defined. It is an important component of successfully framing an opportunity. 
+
+#### When And How To Use Scoping
+
+Scoping is done at the beginning of the framing process after an opportunity has been identified. Scoping is usually conducted by asking a series of questions and trying to establish a prioritization. Key questions to ask include:
+
+* If there are a range of sub-challenges associated with an opportunity, is there one that should be focused on? Is there overlap between challenges and can they be merged? Or do they instead need to be separated?
+
+* Which DfXs are being considered and prioritized?
+
+* Who are the relevant stakeholders to this opportunity? Are they primary or secondary stakeholders? What is their stake? Who will you try to engage with and involve in the engineering design process?
+
+
+:::tip Advantages
+* Challenges can be scoped to a more **manageable level** given time and resource constraints.
+* Defining a scope helps with **identifying stakeholders**, **framing requirements** that can be met and eventually **measuring the solutions** within a context as well. 
+:::
+
+:::caution Limitations
+* It is **difficult to determine the best scope** at the beginning of a design project when there is the most **limited information**. 
+:::
+
+:::info Recommended Modifications
+* Go back and reevaluate the scope of the project frequently while still in the framing phase. 
+* Stakeholders often give insight into how the scope of a design project can be expanded or contracted. Incorporate this perspective when determining a scope or if you are too far into the design process and there are time constraints, note these down as recommendations for future work.
+* A heuristic for successful scoping is whether the types of solutions that are being generated are all very similar during diverging. If this is the case, then it may be necessary to rescope as the solution space is highly constrained.
+:::
 
 <!-- #### Recommended Modifications
 
@@ -127,4 +155,48 @@ The requirements model is best used when framing an opportunity. When converging
 * Use the **Toulmin model of argumentation** when justifying the prioritization of objectives as well as the selection of metrics, criteria and constraints.
 * To ensure effective **communication of ideas**, present the requirements in an order that corresponds to the priorities of the design team and the stakeholders.
 * Use the **principle of iterative design** and apply it to your requirements. This means revisit the requirements model after diverging and converging on a range of good solutions. Doing such a revision ensures the requirements are appropriate for the specific designs being produced and will allow for a better converging process.
+:::
+
+## Toulmin Model Of Argumentation
+
+The Toulmin model of argumentation decomposes arguments into six constituent parts. These include the claim, grounds, warrant, qualifier, rebuttal and backing of an argument. The figure above outlines what each of these components means.
+
+#### When And How To Use The Toulmin Model Of Argumentation
+
+The Toulmin model of argumentation is best used to articulate engineering claims. This can be done in reports and documents such as a RFP where a situation is being framed, it can be used to justify the prioritization of DfXs (Design for Xs) and can also be used to structure claims made in presentations. Examples of where the Toulmin model of argumentation was used to construct engineering claims includes the Design Brief written for Praxis I and the RFP written in Praxis II. 
+
+:::tip Advantages
+* The model allows users to consider **each part of an argument independently** and then understand how they **work in concert**. 
+* The model’s structure forces **each part of an argument to be honed** till the whole itself is strengthened. 
+:::
+
+:::caution Limitations
+* The Toulmin model is only effective to the extent that **one critically and creatively constructs their arguments**. In other words, the limitation of the Toulmin model is that it **cannot act as a substitute for actually researching and writing a report**. Instead, it is best used as a heuristic for constructing arguments. 
+:::
+
+:::info Recommended Modifications
+* **Thorough research** of data that supports the claim, critiques of the qualifiers used and counter arguments, allows for a Toulmin argument to be strengthened. Learn more about how to conduct this research in the **Research Triangulation** section.
+* It is necessary for **cognitive bias avoidance strategies to be employed** to ensure the **integrity of Toulmin arguments**. This is because the Toulmin model of argumentation is not free from biases such as confirmation bias and from skewing data or backings to support claims. 
+:::
+
+## PIAA Model
+
+The Perceive, Interpret, Assess and Act Model (PIAA Model) is a model used to turn self awareness into intentional action. The figure above details what each of these components represent and also demonstrate the interconnected nature of our observations, analysis of a situation and resulting action.
+
+#### When And How To Use The PIAA Model 
+
+The PIAA Model is best used when interacting with stakeholders or when doing decision making. Documenting observations and then interpreting and assessing them separately allows for decision making that is not based on impulses or immediate, emotional reactions to situations. 
+
+:::tip Advantages
+* This model acts as a **cognitive bias avoidance mechanism** as there is a conscious separation of observations, interpretations, assessment and action. This makes it less likely to act without assessment, based on incomplete interpretations of observed phenomena.
+* The model gives you a **mental scaffold for observing the world** that separates perceiving a situation from interpreting it. This conscious separation means there are constant mental checks occurring of whether an observation has *been* made or whether an interpretation is *being* made. 
+:::
+
+:::caution Limitations
+* I have found that this **model is not capable of being used in an engineering design environment**, such as when working with a team. This is because **team environments are much more complicated** to navigate and the PIAA model has only had surface level usage in these contexts.
+:::
+
+:::info Recommended Modifications
+* The **model of co-reflective practice** can be used **in addition to the PIAA model** to overcome the described limitation (Zahedi, et al.). In particular, the model of co-reflective practice is useful as it describes how communication between people can be strengthened by creating a **tight loop between perceiving and interpreting**. Unlike the PIAA model, which only generically connects perception, interpretation, assessment and action, this model allows for conversation matters to be **interpreted, reframed and relayed back to the speaker to clarify whether their message has come across successfully**. There is also the process of constraining and naming, as the model describes it, which concretizes subject matters or scopes topics within discussions. This **model’s usage alongside PIAA is a more accurate representation of design environments**.
+* Another model that can be successfully used alongside the **PIAA model is the Hoover Dam Model**. The Hoover dam model is **a means of separating theory and practice**. PIAA is effectively used within the Hoover Dam Model to act as the bridge between theory and practice. This is an **effective means of** developing and **thinking of the practical application of solutions** making it especially helpful during diverging and converging.
 :::
