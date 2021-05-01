@@ -16,7 +16,7 @@ My name is Mustafa Khan and I am an Engineering Science student at the Universit
 
 ## Why I made this website
 
-This website is a living document that allows me to document and reflect on the action I have taken throughout my engineering work. It is not all encompassing of the work I do and often focuses on limitations of tried methods, lessons learned and areas of improvement. If you would like to know more about the work I generally do, please visit my [main website](www.mustafarehanahmadkhan.com).
+This website is a living document that allows me to document and reflect on the action I have taken throughout my engineering work. It is not all encompassing of the work I do and often focuses on limitations of tried methods, lessons learned and areas of improvement. If you would like to know more about the work I generally do, please visit my [main website](https://www.mustafarehanahmadkhan.com).
 
 ## Engineering values
 
