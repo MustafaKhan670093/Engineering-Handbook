@@ -8,7 +8,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'MustafaKhan670093', // Usually your GitHub org/user name.
-  projectName: 'Engineering-Handbook', // Usually your repo name.
+  projectName: 'MustafaKhan670093.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Engineering Handbook',
