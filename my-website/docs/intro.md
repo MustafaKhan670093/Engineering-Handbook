@@ -10,7 +10,7 @@ sidebar_label: About
 
 ## Who I am 
 <div className="container"> 
-<img src={'/static/img/mustafa-profile.png'} height = "125"/>
+<img src={'Engineering-Handbook/img/mustafa-profile.png'} height = "125"/>
 </div>
 
 My name is Mustafa Khan and I am an Engineering Science student at the University of Toronto. My goal as an engineer is to solve some of the world’s most challenging problems and improve the lives of billions of people. To achieve this end, continual reflection and action is needed so I can keep improving my skills as an engineer.
@@ -33,8 +33,10 @@ These core values have not changed, although the process described in that video
 ## My Engineering Design Process
 
 <div className="container">
-<img src={'/static/img/EDP-transparent.png'} height = "660px"/>
+<img src={'/Engineering-Handbook/img/EDP-transparent.png'} height = "660px"/>
 </div>
+
+This process is heavily inspired by the **Framing, Diverging, Converging and Representing (FDCR) model** taught in **Praxis** at **UofT**. It also borrows from [(**Design Council, 2006**)](https://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council%20(2).pdf) who begin their process with a **Discovery** phase and with a **Deliver** phase. Likewise, my process includes an **Identifying Opportunities** section to the FDCR process at the beginning and I close the loop by conducting **Stakeholder Validation**. The tools, models and frameworks invoked along the way arise from a range of sources and are more thoroughly explained and analyzed throughout this handbook.
 
 ## Navigating this site
 
